@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "rails": {
+            "command": "rails-mcp-server",
+            "type": "command"
+        },
+        "fetch": {
+            "command": "uvx",
+            "args": ["mcp-server-fetch"]
+        }
+    }
+}
